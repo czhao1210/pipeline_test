@@ -1,2 +1,2 @@
-def sayhello(message):
+def sayhello(String message):
     echo message
